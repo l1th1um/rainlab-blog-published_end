@@ -1,0 +1,4 @@
+1.0.1:
+    - Initialize plugin.
+    - Add field published_end_at to rainlab_blog_posts
+    - posts_add_published_end.php

@@ -1,0 +1,6 @@
+plugin:
+    name: 'arozie.blogpublishedend::lang.plugin.name'
+    description: 'arozie.blogpublishedend::lang.plugin.description'
+    author: 'Andri Fachrur Rozie'
+    icon: oc-icon-calendar
+    homepage: ''
